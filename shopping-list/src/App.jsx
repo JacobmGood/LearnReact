@@ -1,8 +1,12 @@
 // Step 4. Import React and useState
+import React, { useState } from 'react';
 
 // Step 5. Import the App.css file
+import './App.css';
 
 // Step 6. Create a functional component called App
+export default function App() {
+    return (
 
     // Step 8a. Initialize useState state variables
 
@@ -35,7 +39,7 @@
             
             
                 {/* Step 10a. Iterate over every task and retrieve its index*/}
-                
+    );      
 
-
+}
 
