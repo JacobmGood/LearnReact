@@ -1,7 +1,7 @@
 {
   "name": "shopping-list",
   "version": "0.1.0",
-  "homepage": "https://JacobmGood.github.io/LearnReact",
+  "homepage": "https://jacobmgood.github.io/LearnReact/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
